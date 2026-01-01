@@ -1,4 +1,4 @@
-# role-service
+# role-service - microservice criado para controle de roles
 
 Microservice scaffold gerado pelo `scaffolding-cli`.
 
